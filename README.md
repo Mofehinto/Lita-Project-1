@@ -1,2 +1,8 @@
 # Lita-Project-1
-My first project on Lita
+
+## PROJECT TITLE:
+
+## PROJECT AIM AND OBJECT
+
+## OVERVIEW
+
